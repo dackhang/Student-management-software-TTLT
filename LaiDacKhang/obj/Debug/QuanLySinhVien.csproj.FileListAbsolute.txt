@@ -1,0 +1,358 @@
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\x86\SqlServerSpatial160.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\x64\SqlServerSpatial160.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\chinhsachReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\diemReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\giaovienReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\khoaReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\lopReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\monhocReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\sinhvienReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\QuanLySinhVien.exe.config
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\QuanLySinhVien.exe
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\QuanLySinhVien.pdb
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\System.Data.SqlClient.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\EnvDTE.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\stdole.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\System.Data.SqlClient.xml
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\EnvDTE.xml
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.admin.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.chinhsach.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_chinhsach.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_diem.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_diemsv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_giaovien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_sinhvien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.diem.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.doimatkhau.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_ChaoMung.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_Chinh.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_DangKy.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_DangNhap.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Giaovien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_cs.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_diem.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_gv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.In_sv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.khoamay.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.Sinhvien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_chinhsach.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_giaovien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_gv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_sinhvien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.truongkhoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.user.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySi.3CF0D20D.Up2Date
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.exe
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\LaiDacKhang\LaiDacKhang\obj\Debug\QuanLySinhVien.pdb
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\x86\SqlServerSpatial160.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\x64\SqlServerSpatial160.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\chinhsachReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\diemReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\giaovienReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\khoaReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\lopReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\monhocReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\sinhvienReport.rdlc
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\QuanLySinhVien.exe.config
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\QuanLySinhVien.exe
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\QuanLySinhVien.pdb
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\System.Data.SqlClient.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\EnvDTE.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\stdole.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\System.Data.SqlClient.xml
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\EnvDTE.xml
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.admin.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.chinhsach.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_chinhsach.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_diem.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_diemsv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_giaovien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_sinhvien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.diem.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.doimatkhau.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_ChaoMung.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_Chinh.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_DangKy.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_DangNhap.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Giaovien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_cs.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_diem.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_gv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_sv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.khoamay.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Sinhvien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_chinhsach.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_giaovien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_gv.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_khoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_lop.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_monhoc.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_sinhvien.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.truongkhoa.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.user.resources
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySi.3CF0D20D.Up2Date
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.exe
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.pdb
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Database\qlsv.mdf
+D:\KhangCodeLib\4th\BTL\C#\BTL_5\QuanLySinhVien\LaiDacKhang\bin\Debug\Database\qlsv_log.ldf
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\x86\SqlServerSpatial160.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\x64\SqlServerSpatial160.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Database\qlsv.mdf
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Database\qlsv_log.ldf
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\chinhsachReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\diemReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\giaovienReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\khoaReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\lopReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\monhocReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\sinhvienReport.rdlc
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\QuanLySinhVien.exe.config
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\QuanLySinhVien.exe
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\QuanLySinhVien.pdb
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\System.Data.SqlClient.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\EnvDTE.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\stdole.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\System.Data.SqlClient.xml
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.admin.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.chinhsach.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_chinhsach.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_diem.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_diemsv.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_giaovien.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_khoa.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_lop.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_monhoc.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.cn_sinhvien.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.diem.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.doimatkhau.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_ChaoMung.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_Chinh.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_DangKy.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Frm_DangNhap.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Giaovien.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_cs.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_diem.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_gv.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_khoa.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_lop.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_monhoc.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.In_sv.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.khoa.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.khoamay.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.lop.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.monhoc.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.Sinhvien.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_chinhsach.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_giaovien.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_gv.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_khoa.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_lop.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_monhoc.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.tk_sinhvien.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.truongkhoa.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.user.resources
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySi.3CF0D20D.Up2Date
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.exe
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.pdb
+D:\KhangCodeLib\4th\THLT .Net\Code\BTL\QuanLySinhVien\QuanLySinhVien\LaiDacKhang\obj\Debug\QuanLySinhVien.FormThongTin.resources

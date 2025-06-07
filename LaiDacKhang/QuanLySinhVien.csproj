@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props" Condition="Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5AEC7C16-0685-4F69-B539-97487B6B028F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLySinhVien</RootNamespace>
+    <AssemblyName>QuanLySinhVien</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.160.1000.6\lib\net462\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chinhsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chinhsach.Designer.cs">
+      <DependentUpon>chinhsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_chinhsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_chinhsach.Designer.cs">
+      <DependentUpon>cn_chinhsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_diem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_diem.Designer.cs">
+      <DependentUpon>cn_diem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_diemsv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_diemsv.Designer.cs">
+      <DependentUpon>cn_diemsv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_giaovien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_giaovien.Designer.cs">
+      <DependentUpon>cn_giaovien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_khoa.Designer.cs">
+      <DependentUpon>cn_khoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_lop.Designer.cs">
+      <DependentUpon>cn_lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_monhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_monhoc.Designer.cs">
+      <DependentUpon>cn_monhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cn_sinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cn_sinhvien.Designer.cs">
+      <DependentUpon>cn_sinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diem.Designer.cs">
+      <DependentUpon>diem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doimatkhau.Designer.cs">
+      <DependentUpon>doimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongTin.Designer.cs">
+      <DependentUpon>FormThongTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ChaoMung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ChaoMung.Designer.cs">
+      <DependentUpon>Frm_ChaoMung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Chinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Chinh.Designer.cs">
+      <DependentUpon>Frm_Chinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DangKy.Designer.cs">
+      <DependentUpon>Frm_DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_DangNhap.Designer.cs">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giaovien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giaovien.Designer.cs">
+      <DependentUpon>Giaovien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_cs.Designer.cs">
+      <DependentUpon>In_cs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_diem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_diem.Designer.cs">
+      <DependentUpon>In_diem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_gv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_gv.Designer.cs">
+      <DependentUpon>In_gv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_khoa.Designer.cs">
+      <DependentUpon>In_khoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_lop.Designer.cs">
+      <DependentUpon>In_lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_monhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_monhoc.Designer.cs">
+      <DependentUpon>In_monhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="In_sv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="In_sv.Designer.cs">
+      <DependentUpon>In_sv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ketnoi.cs" />
+    <Compile Include="khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="khoa.Designer.cs">
+      <DependentUpon>khoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="khoamay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="khoamay.Designer.cs">
+      <DependentUpon>khoamay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lop.Designer.cs">
+      <DependentUpon>lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="monhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="monhoc.Designer.cs">
+      <DependentUpon>monhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="qlsvDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>qlsvDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Sinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sinhvien.Designer.cs">
+      <DependentUpon>Sinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_chinhsach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_chinhsach.Designer.cs">
+      <DependentUpon>tk_chinhsach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_giaovien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_giaovien.Designer.cs">
+      <DependentUpon>tk_giaovien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_gv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_gv.Designer.cs">
+      <DependentUpon>tk_gv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_khoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_khoa.Designer.cs">
+      <DependentUpon>tk_khoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_lop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_lop.Designer.cs">
+      <DependentUpon>tk_lop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_monhoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_monhoc.Designer.cs">
+      <DependentUpon>tk_monhoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tk_sinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tk_sinhvien.Designer.cs">
+      <DependentUpon>tk_sinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="truongkhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="truongkhoa.Designer.cs">
+      <DependentUpon>truongkhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chinhsach.resx">
+      <DependentUpon>chinhsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chinhsachReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_chinhsach.resx">
+      <DependentUpon>cn_chinhsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_diem.resx">
+      <DependentUpon>cn_diem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_diemsv.resx">
+      <DependentUpon>cn_diemsv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_giaovien.resx">
+      <DependentUpon>cn_giaovien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_khoa.resx">
+      <DependentUpon>cn_khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_lop.resx">
+      <DependentUpon>cn_lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_monhoc.resx">
+      <DependentUpon>cn_monhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cn_sinhvien.resx">
+      <DependentUpon>cn_sinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diem.resx">
+      <DependentUpon>diem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diemReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doimatkhau.resx">
+      <DependentUpon>doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongTin.resx">
+      <DependentUpon>FormThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ChaoMung.resx">
+      <DependentUpon>Frm_ChaoMung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Chinh.resx">
+      <DependentUpon>Frm_Chinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DangKy.resx">
+      <DependentUpon>Frm_DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_DangNhap.resx">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giaovien.resx">
+      <DependentUpon>Giaovien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giaovienReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_cs.resx">
+      <DependentUpon>In_cs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_diem.resx">
+      <DependentUpon>In_diem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_gv.resx">
+      <DependentUpon>In_gv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_khoa.resx">
+      <DependentUpon>In_khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_lop.resx">
+      <DependentUpon>In_lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_monhoc.resx">
+      <DependentUpon>In_monhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="In_sv.resx">
+      <DependentUpon>In_sv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="khoa.resx">
+      <DependentUpon>khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="khoamay.resx">
+      <DependentUpon>khoamay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="khoaReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lop.resx">
+      <DependentUpon>lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lopReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="monhoc.resx">
+      <DependentUpon>monhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="monhocReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sinhvien.resx">
+      <DependentUpon>Sinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sinhvienReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_chinhsach.resx">
+      <DependentUpon>tk_chinhsach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_giaovien.resx">
+      <DependentUpon>tk_giaovien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_gv.resx">
+      <DependentUpon>tk_gv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_khoa.resx">
+      <DependentUpon>tk_khoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_lop.resx">
+      <DependentUpon>tk_lop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_monhoc.resx">
+      <DependentUpon>tk_monhoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tk_sinhvien.resx">
+      <DependentUpon>tk_sinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="truongkhoa.resx">
+      <DependentUpon>truongkhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="qlsvDataSet.xsc">
+      <DependentUpon>qlsvDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="qlsvDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>qlsvDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="qlsvDataSet.xss">
+      <DependentUpon>qlsvDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\uneti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a13.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGINICON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrough2077.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lennart-butz-japan-12.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uneti1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGINICON1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginiconprivate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logounetioffical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\li.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaperflare.com_wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2471303.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoofaman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginlogio123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\091a6729469dffe55d4f11441d65f665.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple-calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cmd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_66468754_86IFi1dhqwtHdXzPeMQNhGtGp8Z2D3yC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimalism-4k-for-mac-desktop-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaperflare.com_wallpaper1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaperflare.com_wallpaper123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\statistics_analytics_chart_scoreboard_score_icon_251483.png" />
+    <None Include="Resources\undo.png" />
+    <None Include="Resources\trend.png" />
+    <None Include="Resources\wallpaperflare.com_wallpaper1231.jpg" />
+    <None Include="Resources\logout_icon_155171.png" />
+    <None Include="Resources\view_dashboard_outline_icon_139087.png" />
+    <None Include="Resources\alphabet_font_language_translation_icon_209607.png" />
+    <Content Include="Database\qlsv.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database\qlsv_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>qlsv.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\32officeicons-14_89715.png" />
+    <None Include="Resources\applicationsutilities_103415.png" />
+    <Content Include="Resources\botanical_irish_cultures_nature_clover_luck_good_leaf_four_icon_255619.ico" />
+    <None Include="Resources\day-night-nature-landscape_800.gif" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\eraser.png" />
+    <None Include="Resources\circle_customer_help_info_information_service_support_icon_123208.png" />
+    <None Include="Resources\homefolderblank_99358.png" />
+    <None Include="Resources\gear_settings_archive_manager_icon_220561.png" />
+    <Content Include="Resources\homepage_home_house_building_icon_153924.ico" />
+    <None Include="Resources\imager-44-2380-700-13-10-53-10.jpg" />
+    <None Include="Resources\menu.png" />
+    <Content Include="Resources\modern_house_building_home_icon_231035.ico" />
+    <None Include="Resources\options.png" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\pexels-ifangfang-3864594.jpg" />
+    <None Include="Resources\pexels-pixabay-356065.jpg" />
+    <None Include="Resources\pexels-mitbg000-19199263.jpg" />
+    <None Include="Resources\pexels-pixabay-159213.jpg" />
+    <Content Include="Resources\seo-social-web-network-internet_340_icon-icons.com_61497.ico" />
+    <None Include="Resources\4014672-bill-contract-cost-document-mobile-receipt-service_112892.png" />
+    <None Include="Resources\settings_reload_update_icon_188616.png" />
+    <None Include="Resources\contract_icon-icons.com_64813.png" />
+    <None Include="Resources\jp-str.jfif" />
+    <None Include="Resources\151.jpg" />
+    <Content Include="Resources\51255.jpg" />
+    <None Include="Resources\512551.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props'))" />
+  </Target>
+</Project>
